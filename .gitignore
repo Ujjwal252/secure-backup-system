@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Encrypted backup files (do not upload personal backups)
+*.enc
+
+# Backup registry (personal data)
+backup_registry.json
+
+# Test temporary files
+test_document.txt
+test_document.txt.enc
+
+# OS files
+.DS_Store
+Thumbs.db
